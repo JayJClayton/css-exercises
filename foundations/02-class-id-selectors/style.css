@@ -1,4 +1,4 @@
-.odd, .odd_child{
+.odd{
     background-color: #FFC0CB;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
     
@@ -7,7 +7,7 @@
     font-size: 24px;
 }
 
-div{
+.two{
     color : blue;
     font-size : 36px;
 
