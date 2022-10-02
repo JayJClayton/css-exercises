@@ -1,0 +1,7 @@
+/*Uses combinator to change index.html attributes*/
+.container .text{
+    background-color: #fff00f;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
